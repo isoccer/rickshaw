@@ -28,6 +28,7 @@ JS_FILES=\
 	src/js/Rickshaw.Graph.Behavior.Series.Highlight.js\
 	src/js/Rickshaw.Graph.Behavior.Series.Order.js\
 	src/js/Rickshaw.Graph.Behavior.Series.Toggle.js\
+	src/js/Rickshaw.Graph.ClickDetail.js\
 	src/js/Rickshaw.Graph.HoverDetail.js\
 	src/js/Rickshaw.Graph.JSONP.js\
 	src/js/Rickshaw.Graph.Legend.js\
